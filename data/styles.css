@@ -7,6 +7,34 @@
   text-align:center;
   line-height:normal;
 }
+.image {
+  color:#000000;
+}
+.box_1 {
+}
+.box_2 {
+}
+.image1 {
+}
+.button {
+}
+.shape {
+  font-family:'Arial Normal', 'Arial';
+  font-weight:400;
+  font-style:normal;
+  font-size:13px;
+  color:#333333;
+  text-align:center;
+  line-height:normal;
+}
+.icon {
+}
+.chart_-_blue {
+}
+.box_3 {
+}
+.ellipse {
+}
 ._一级标题 {
   font-family:'Arial Normal', 'Arial';
   font-weight:bold;
@@ -53,8 +81,100 @@
 }
 ._流程形状 {
 }
+._连接线 {
+  font-family:'Arial Normal', 'Arial';
+  font-weight:400;
+  font-style:normal;
+  font-size:12px;
+  color:#333333;
+  text-align:center;
+  line-height:normal;
+}
+.marker {
+  color:#FFFFFF;
+}
 ._图片 {
   color:#000000;
 }
-.box_1 {
+._形状 {
+}
+.line {
+}
+.text_field {
+  color:#000000;
+  text-align:left;
+}
+.radio_button {
+  text-align:left;
+}
+.label {
+  font-size:14px;
+  text-align:left;
+}
+.connector {
+  font-family:'PingFang SC 中等', 'PingFang SC';
+  font-weight:400;
+  font-style:normal;
+  font-size:13px;
+  color:#333333;
+  text-align:center;
+  line-height:normal;
+}
+.placeholder {
+}
+.heading_1 {
+  font-family:'Arial Normal', 'Arial';
+  font-weight:bold;
+  font-style:normal;
+  font-size:32px;
+  text-align:left;
+}
+.heading_2 {
+  font-family:'Arial Normal', 'Arial';
+  font-weight:bold;
+  font-style:normal;
+  font-size:24px;
+  text-align:left;
+}
+.heading_3 {
+  font-family:'Arial Normal', 'Arial';
+  font-weight:bold;
+  font-style:normal;
+  font-size:18px;
+  text-align:left;
+}
+.paragraph {
+  text-align:left;
+}
+._形状1 {
+  font-family:'Arial Normal', 'Arial';
+  font-weight:normal;
+  font-style:normal;
+  font-size:16px;
+  color:#FFFFFF;
+  text-align:center;
+  line-height:normal;
+}
+.flow_shape {
+}
+._文本段落1 {
+  text-align:left;
+}
+._水平线 {
+}
+._图片1 {
+}
+._一级标题1 {
+  font-family:'Arial Negreta', 'Arial Normal', 'Arial';
+  font-weight:700;
+  font-style:normal;
+  font-size:32px;
+  text-align:left;
+}
+._二级标题1 {
+  font-family:'Arial Negreta', 'Arial Normal', 'Arial';
+  font-weight:700;
+  font-style:normal;
+  font-size:24px;
+  text-align:left;
 }
